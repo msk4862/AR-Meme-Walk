@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class GoogleSearch : MonoBehaviour {
 
 	public PictureFactory pictureFactory;
-	private string API_KEY = "AIzaSyDLltARMzlMRt3_kmTHec8LFqzou-_6-MM";
+	private string API_KEY = "<Google Custom Search API KEY>";
 	public Text buttonText;
 
 	public void GetPicture() {
